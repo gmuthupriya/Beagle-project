@@ -1,0 +1,20 @@
+html,body{
+    margin: 0px;
+}
+body{
+    padding: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+   
+}
+.beagleblog1{
+    border:1px solid black;   
+    padding: 0px 25px 20px 20px;
+    
+}
+
+ol li{
+
+    position: relative;
+    top: 20px;
+    left: -20px; 
+}
